@@ -15,7 +15,7 @@
 - 🤝🏻 Contribute to opensource to make life easier
 - 🎓 Studying at [ITMO University](https://en.itmo.ru/)
 - 💼 Working at [Linza Metrics](https://linzametrics.com/) and [X5 Tech](https://www.x5-tech.ru/) 
-- How to contact: :email: `yuppiebichkov at gmail.com` :airplane: [Telegram](https://t.me/realChungZH).
+- How to contact: :email: `yuppiebichkov at gmail.com` :airplane: [Telegram](https://t.me/dioksha).
 
 ![Dmitrii's github stats](https://github-readme-stats.vercel.app/api?username=dimaioksha&theme=gruvbox&show_icons=true)
 
