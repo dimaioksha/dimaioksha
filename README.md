@@ -10,7 +10,7 @@
 
 🎊 Hello world!
 
-- ⭐️ Have strong passion to LLM
+- ⭐️ Have a strong passion for LLM
 - 🔧 Love creating valuable things using AI stack, MLOps and Python
 - 🤝🏻 Contribute to opensource to make life easier
 - 🎓 Studying at [ITMO University](https://en.itmo.ru/)
