@@ -14,7 +14,7 @@
 - 🔧 Love creating valuable things using AI stack, MLOps and Python
 - 🤝🏻 Contribute to opensource to make life easier
 - 🎓 Studying at [ITMO University](https://en.itmo.ru/)
-- 💼 Working at [Linza Metrics](https://linzametrics.com/) and [X5 Tech](https://www.x5-tech.ru/) 
+- 💼 Working at [X5 Tech](https://www.x5-tech.ru/) 
 - How to contact: :email: `dmitrii.ioksha@gmail.com` :airplane: [Telegram](https://t.me/dioksha).
 
 ![Dmitrii's github stats](https://github-readme-stats.vercel.app/api?username=dimaioksha&theme=gruvbox&show_icons=true)
